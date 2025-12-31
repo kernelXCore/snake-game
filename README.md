@@ -19,4 +19,4 @@ The code is modular and can be modified to suit your needs or extended with new 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/snake-opengl.git
+   git clone https://github.com/kernelXCore/snake-game.git
