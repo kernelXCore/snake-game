@@ -1,0 +1,4 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+D:\students\Glew and Glut\Glew and Glut\glew-1.11.0\lib\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\waqan-hacker\source\repos\art\x64\Debug\art.exe : fatal error LNK1120: 1 unresolved externals

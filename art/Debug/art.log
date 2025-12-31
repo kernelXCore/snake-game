@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\waqan-hacker\source\repos\art\art\Source.cpp(47,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\waqan-hacker\source\repos\art\art\Source.cpp(47,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\waqan-hacker\source\repos\art\art\Source.cpp(48,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\waqan-hacker\source\repos\art\art\Source.cpp(48,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\waqan-hacker\source\repos\art\art\Source.cpp(49,45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\waqan-hacker\source\repos\art\art\Source.cpp(49,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\waqan-hacker\source\repos\art\art\Source.cpp(50,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\waqan-hacker\source\repos\art\art\Source.cpp(50,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\waqan-hacker\source\repos\art\art\Source.cpp(152,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  art.vcxproj -> C:\Users\waqan-hacker\source\repos\art\Debug\art.exe
